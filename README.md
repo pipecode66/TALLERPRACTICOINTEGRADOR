@@ -98,6 +98,14 @@ HELYNOTA/
 
 ### Panel de Control
 - Visualización de métricas en tiempo real
+
+## Documentación 📚
+
+### Plan de Pruebas
+- `documentacion/Plan_Pruebas_Hotel.pdf`: Plan de pruebas completo siguiendo el estándar IEEE 829
+
+### Presentaciones
+- `Diapositivas/Presentacion_Release.pptx`: Presentación con decisión final del proyecto (5 slides)
 - Seguimiento de ocupación
 - Análisis de satisfacción del cliente
 - Reportes personalizables
