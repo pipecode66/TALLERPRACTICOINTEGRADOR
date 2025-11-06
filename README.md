@@ -1,5 +1,9 @@
 # Sistema de Reservas de Hotel 🏨
 
+## LINK AL VIDEO EXPLICATIVO
+
+[VIDEO EXPLICATIVO](https://youtu.be/D_izZDDZbRA)
+
 ## Descripción
 Sistema completo de gestión de reservas hoteleras desarrollado en Python con Flask. Incluye funcionalidades de reserva, gestión de habitaciones, autenticación de usuarios y un sistema completo de métricas y análisis de calidad.
 
