@@ -1,0 +1,501 @@
+defecto_id,fecha,modulo,severidad,tipo,estado,reportado_por,dias_abierto,prioridad,ambiente,ciclo,version
+D0001,2025-10-25,Busqueda,Bajo,Datos,En progreso,Camilo Aguilar,1,P1,Produccion,Sprint 12,v1.1
+D0002,2025-10-25,Busqueda,Bajo,Funcional,En progreso,Rodolfo Aragón Botello,1,P3,Produccion,Sprint 10,v2.9
+D0003,2025-10-05,Reportes,Alto,Funcional,Abierto,Joaquín Granado Alfaro,3,P4,QA,Sprint 2,v3.8
+D0004,2025-11-03,Reportes,Critico,Datos,En progreso,Adriana Montemayor Roybal,10,P1,Staging,Sprint 9,v1.4
+D0005,2025-10-06,Pagos,Alto,UI,Resuelto,Lic. Conchita Bustos,0,P4,Produccion,Sprint 11,v1.8
+D0006,2025-09-10,Reportes,Medio,Seguridad,Abierto,Camila Adela Santacruz,3,P2,QA,Sprint 2,v3.7
+D0007,2025-09-16,Reservas,Critico,Performance,Abierto,Felix Barragán,4,P1,Produccion,Sprint 3,v3.4
+D0008,2025-10-05,Reportes,Bajo,UI,Abierto,Lic. Ángela Zaragoza,5,P3,QA,Sprint 5,v1.7
+D0009,2025-09-08,Pagos,Medio,Datos,Resuelto,Noelia Véliz Arredondo,0,P4,Staging,Sprint 1,v2.9
+D0010,2025-11-01,Autenticacion,Alto,Funcional,Abierto,Pilar Andrea Madrid Rosales,9,P2,Staging,Sprint 7,v1.8
+D0011,2025-09-12,Autenticacion,Alto,Performance,Resuelto,Gabriela Felix Feliciano Rendón,0,P2,Staging,Sprint 2,v3.2
+D0012,2025-10-13,Pagos,Bajo,Performance,Resuelto,Sr(a). Nancy Batista,0,P4,Produccion,Sprint 2,v1.6
+D0013,2025-09-19,Busqueda,Alto,Funcional,Abierto,Isabela Colón Rojas,5,P3,Staging,Sprint 8,v1.9
+D0014,2025-09-22,Reportes,Medio,UI,Resuelto,Daniela Ayala,0,P1,Staging,Sprint 4,v3.7
+D0015,2025-10-08,Reservas,Medio,Seguridad,En progreso,Rodrigo Salgado Dávila,6,P2,Produccion,Sprint 4,v2.0
+D0016,2025-10-28,Autenticacion,Bajo,Datos,En progreso,Porfirio Galván Colón,3,P4,Staging,Sprint 3,v1.0
+D0017,2025-10-15,Notificaciones,Critico,Performance,Abierto,Javier Carranza Tamayo,3,P2,QA,Sprint 11,v3.0
+D0018,2025-10-16,Reservas,Critico,Seguridad,Abierto,Yuridia Hilda Rentería,3,P3,QA,Sprint 11,v2.4
+D0019,2025-10-10,Pagos,Medio,Datos,Resuelto,Lorena Lebrón Arevalo,0,P2,Produccion,Sprint 2,v2.4
+D0020,2025-10-02,Pagos,Medio,Seguridad,En progreso,Georgina Cristal Macías,10,P3,QA,Sprint 5,v3.9
+D0021,2025-10-01,Reservas,Medio,UI,Abierto,Marisol Alma Valladares,8,P4,Staging,Sprint 1,v1.7
+D0022,2025-10-01,Reservas,Medio,Seguridad,En progreso,Jaqueline Saldivar,8,P2,Staging,Sprint 10,v2.9
+D0023,2025-09-28,Notificaciones,Medio,Seguridad,En progreso,Rodolfo Mayte Rolón Armenta,9,P1,Produccion,Sprint 8,v3.1
+D0024,2025-09-07,Busqueda,Bajo,Datos,En progreso,Rosario de la Rosa,8,P3,Staging,Sprint 5,v2.9
+D0025,2025-09-27,Pagos,Medio,Datos,Resuelto,Norma Quezada,0,P3,QA,Sprint 9,v3.9
+D0026,2025-09-19,Pagos,Medio,Funcional,En progreso,Gerardo Carlota Escamilla Peña,6,P1,QA,Sprint 5,v2.2
+D0027,2025-10-31,Reportes,Bajo,UI,Abierto,Carla Tamayo,1,P2,Staging,Sprint 9,v2.6
+D0028,2025-11-03,Busqueda,Bajo,Performance,Resuelto,Mercedes Ocampo Herrera,0,P3,Produccion,Sprint 8,v3.3
+D0029,2025-09-28,Reportes,Bajo,Funcional,Resuelto,Jaime Bianca Cortez,0,P3,Produccion,Sprint 4,v1.7
+D0030,2025-10-07,Reportes,Bajo,UI,Resuelto,Mtro. Cristal Mejía,0,P1,QA,Sprint 9,v1.2
+D0031,2025-11-03,Notificaciones,Medio,Seguridad,Resuelto,Angélica Berríos,0,P3,QA,Sprint 12,v3.9
+D0032,2025-10-10,Autenticacion,Critico,Funcional,Resuelto,Ernesto Arreola,0,P3,Produccion,Sprint 7,v1.9
+D0033,2025-10-15,Notificaciones,Bajo,Performance,Abierto,Alfonso Estefanía Santillán Brito,4,P4,Produccion,Sprint 8,v1.0
+D0034,2025-10-04,Pagos,Medio,Performance,Resuelto,Hilda María Luisa Barraza Vigil,0,P2,Staging,Sprint 11,v3.3
+D0035,2025-10-20,Busqueda,Bajo,Performance,Resuelto,Antonia Luis Ferrer Campos,0,P3,Staging,Sprint 3,v1.0
+D0036,2025-09-19,Notificaciones,Medio,UI,Resuelto,Eloisa Rico,0,P2,Produccion,Sprint 5,v3.0
+D0037,2025-11-03,Pagos,Medio,Performance,Resuelto,Dr. Jorge Luis Flórez,0,P3,Staging,Sprint 7,v2.3
+D0038,2025-09-24,Notificaciones,Bajo,Funcional,Abierto,Lic. Delia Viera,6,P1,QA,Sprint 9,v3.9
+D0039,2025-09-29,Pagos,Alto,Performance,Resuelto,Hermelinda Ana María Mora,0,P2,Staging,Sprint 3,v1.8
+D0040,2025-10-20,Autenticacion,Alto,UI,En progreso,Dr. Modesto Ulloa,4,P3,Produccion,Sprint 10,v2.8
+D0041,2025-10-07,Notificaciones,Medio,Seguridad,Resuelto,Isabela Chávez,0,P4,Produccion,Sprint 12,v3.5
+D0042,2025-10-15,Autenticacion,Bajo,UI,Abierto,Amanda Sofía de Jesús,9,P1,Staging,Sprint 8,v1.8
+D0043,2025-10-11,Reservas,Bajo,Funcional,Abierto,Patricio Ángela Melgar,5,P3,Staging,Sprint 5,v3.8
+D0044,2025-09-28,Notificaciones,Medio,Seguridad,En progreso,Abel Yolanda Ballesteros,4,P3,Staging,Sprint 9,v1.8
+D0045,2025-10-27,Busqueda,Critico,UI,Resuelto,Concepción Gamboa Arenas,0,P3,QA,Sprint 7,v2.3
+D0046,2025-09-22,Notificaciones,Critico,Funcional,Abierto,Julio César Meléndez,6,P3,Staging,Sprint 6,v2.4
+D0047,2025-10-13,Reportes,Medio,UI,Resuelto,Zeferino Juana Lemus,0,P4,Staging,Sprint 1,v2.9
+D0048,2025-10-14,Reportes,Alto,Datos,Resuelto,Mtro. Luisa Matos,0,P2,QA,Sprint 4,v3.7
+D0049,2025-10-14,Pagos,Medio,Seguridad,En progreso,Dr. Óscar Cabán,9,P4,Staging,Sprint 11,v3.7
+D0050,2025-09-26,Reservas,Bajo,Seguridad,En progreso,Germán Lilia Pabón Vallejo,5,P2,QA,Sprint 4,v3.8
+D0051,2025-11-03,Reportes,Medio,Seguridad,Resuelto,Olivia Camila Núñez Lara,0,P4,QA,Sprint 9,v2.1
+D0052,2025-10-21,Busqueda,Critico,UI,Resuelto,Héctor Rodrigo Otero,0,P4,Produccion,Sprint 8,v2.3
+D0053,2025-10-20,Pagos,Bajo,Datos,En progreso,Jaqueline Quintana Gonzales,9,P4,Produccion,Sprint 11,v1.4
+D0054,2025-10-27,Notificaciones,Alto,UI,Resuelto,Daniel Olivares,0,P4,Staging,Sprint 3,v3.2
+D0055,2025-11-04,Notificaciones,Bajo,Datos,En progreso,Abelardo Antonia Rosado Ortega,8,P2,Staging,Sprint 7,v3.7
+D0056,2025-09-23,Reservas,Critico,Seguridad,Resuelto,Luis Miguel Mauro Escamilla Pacheco,0,P2,Staging,Sprint 4,v1.4
+D0057,2025-10-28,Pagos,Alto,Seguridad,Abierto,Cristina Lerma,9,P2,QA,Sprint 9,v3.2
+D0058,2025-11-03,Autenticacion,Medio,Datos,En progreso,Mtro. Vanesa Zapata,10,P3,QA,Sprint 11,v1.8
+D0059,2025-09-07,Autenticacion,Alto,Funcional,Abierto,Emiliano Darío Solano Vanegas,6,P4,Staging,Sprint 8,v2.5
+D0060,2025-11-03,Notificaciones,Alto,Datos,Resuelto,Yolanda Rojo,0,P4,Staging,Sprint 8,v3.0
+D0061,2025-09-07,Busqueda,Bajo,Seguridad,En progreso,Mayte Cano Amador,10,P2,Staging,Sprint 7,v1.0
+D0062,2025-10-03,Reservas,Bajo,Datos,En progreso,Martín Andrés Cintrón Villalobos,7,P1,Produccion,Sprint 6,v1.3
+D0063,2025-10-27,Busqueda,Alto,Datos,Abierto,Jaqueline Gregorio Lugo Vergara,7,P1,Staging,Sprint 9,v1.4
+D0064,2025-10-22,Busqueda,Medio,Seguridad,Resuelto,Ramón Guadalupe Valladares Esquivel,0,P1,Produccion,Sprint 5,v1.3
+D0065,2025-10-30,Notificaciones,Critico,Performance,Resuelto,Mtro. Antonia Tejeda,0,P2,Staging,Sprint 8,v1.4
+D0066,2025-09-16,Notificaciones,Bajo,Performance,En progreso,Dr. Ivonne Segovia,5,P3,Produccion,Sprint 10,v1.2
+D0067,2025-10-20,Reportes,Medio,Seguridad,Abierto,Inés María José Jaramillo Bravo,5,P1,Staging,Sprint 3,v2.5
+D0068,2025-10-15,Busqueda,Bajo,Seguridad,En progreso,Ing. Rodolfo Ulibarri,2,P3,Produccion,Sprint 12,v3.0
+D0069,2025-10-18,Autenticacion,Medio,Seguridad,Resuelto,Felipe Hinojosa Nieto,0,P1,Produccion,Sprint 9,v2.9
+D0070,2025-10-09,Reservas,Medio,Funcional,Resuelto,Alicia Leonardo Archuleta,0,P4,QA,Sprint 6,v3.8
+D0071,2025-09-14,Busqueda,Medio,Performance,Resuelto,Emilio Correa Marroquín,0,P4,Staging,Sprint 2,v1.9
+D0072,2025-10-04,Busqueda,Alto,Datos,Resuelto,Mtro. Manuel Serrato,0,P2,QA,Sprint 11,v2.8
+D0073,2025-09-17,Busqueda,Alto,Datos,Resuelto,Hilda Ibarra Ruelas,0,P4,Staging,Sprint 10,v3.0
+D0074,2025-10-18,Pagos,Bajo,Performance,Resuelto,Dr. Jaqueline Santana,0,P2,QA,Sprint 9,v1.1
+D0075,2025-10-25,Busqueda,Critico,Performance,En progreso,Úrsula Almanza Vigil,2,P3,Produccion,Sprint 11,v3.6
+D0076,2025-10-15,Autenticacion,Medio,UI,Resuelto,Ramón Estela Curiel Romo,0,P1,Staging,Sprint 11,v2.5
+D0077,2025-09-30,Busqueda,Alto,Seguridad,En progreso,Zeferino Cintrón,2,P3,Produccion,Sprint 12,v1.1
+D0078,2025-09-09,Busqueda,Medio,Datos,En progreso,Ing. Silvano Barreto,3,P4,Produccion,Sprint 2,v3.6
+D0079,2025-10-19,Autenticacion,Bajo,UI,En progreso,Óscar Federico de Anda,1,P2,Produccion,Sprint 10,v1.6
+D0080,2025-09-16,Reportes,Medio,UI,Resuelto,Ing. Laura Mena,0,P4,Produccion,Sprint 11,v2.9
+D0081,2025-09-30,Pagos,Alto,UI,En progreso,Ramiro Raúl Téllez,5,P3,Produccion,Sprint 5,v1.4
+D0082,2025-09-16,Reportes,Medio,Performance,Abierto,Ing. Marisela Arevalo,10,P4,Staging,Sprint 1,v2.0
+D0083,2025-10-08,Pagos,Alto,Seguridad,Abierto,Ángela José Carlos Paredes Armendáriz,10,P3,Staging,Sprint 9,v2.6
+D0084,2025-09-23,Autenticacion,Medio,Funcional,Resuelto,Ing. Angélica Martínez,0,P3,Staging,Sprint 4,v2.1
+D0085,2025-10-01,Pagos,Medio,Seguridad,Resuelto,Sofía Elvia Montemayor,0,P4,Produccion,Sprint 5,v2.9
+D0086,2025-09-16,Reservas,Medio,UI,En progreso,Lic. Rolando Salcedo,6,P1,Staging,Sprint 10,v2.9
+D0087,2025-11-03,Reservas,Alto,Performance,Resuelto,Alta  Gracia Ramos Blanco,0,P3,Staging,Sprint 10,v2.3
+D0088,2025-09-26,Pagos,Bajo,Funcional,Resuelto,Luis Jacinto Cordero Ruelas,0,P2,Produccion,Sprint 9,v2.2
+D0089,2025-10-01,Autenticacion,Critico,Datos,En progreso,Alta  Gracia Jonás Villareal,5,P4,Staging,Sprint 11,v3.0
+D0090,2025-09-09,Reservas,Alto,Seguridad,Resuelto,Linda Delia Benavídez Almanza,0,P1,QA,Sprint 3,v2.5
+D0091,2025-10-31,Notificaciones,Medio,Seguridad,En progreso,Elsa Salma Trujillo,10,P1,QA,Sprint 10,v3.7
+D0092,2025-10-01,Notificaciones,Bajo,Funcional,Abierto,Mónica César Hernández,3,P1,QA,Sprint 3,v1.7
+D0093,2025-09-29,Notificaciones,Critico,UI,Resuelto,Ruby Rocha Nájera,0,P2,Staging,Sprint 7,v2.9
+D0094,2025-11-03,Reportes,Bajo,Performance,Resuelto,Mtro. Graciela Osorio,0,P3,Staging,Sprint 4,v1.5
+D0095,2025-09-09,Reportes,Medio,Datos,En progreso,José Carlos González,5,P3,Produccion,Sprint 9,v2.4
+D0096,2025-09-22,Reportes,Alto,Performance,Resuelto,Abril Humberto Vergara Jáquez,0,P1,QA,Sprint 6,v3.5
+D0097,2025-10-15,Autenticacion,Critico,Performance,En progreso,Pamela Zapata Aranda,2,P4,Produccion,Sprint 2,v3.5
+D0098,2025-09-14,Pagos,Medio,Funcional,Resuelto,Oswaldo Reina Villaseñor,0,P4,QA,Sprint 7,v1.3
+D0099,2025-10-20,Notificaciones,Medio,Funcional,Resuelto,Pablo Dulce María Medina Loya,0,P1,Produccion,Sprint 6,v2.7
+D0100,2025-09-08,Busqueda,Medio,Funcional,Resuelto,Georgina Trinidad del Valle Reyes,0,P2,Produccion,Sprint 2,v2.4
+D0101,2025-10-08,Reservas,Alto,Performance,Resuelto,Abelardo Pamela Paredes,0,P1,QA,Sprint 12,v3.4
+D0102,2025-09-27,Pagos,Medio,Funcional,Resuelto,Elisa María Laboy,0,P4,Staging,Sprint 9,v2.3
+D0103,2025-09-19,Pagos,Critico,Seguridad,Resuelto,Joaquín Rodrigo Parra,0,P1,Staging,Sprint 1,v2.6
+D0104,2025-10-22,Busqueda,Medio,Seguridad,Abierto,Lic. Rufino Villagómez,10,P4,QA,Sprint 2,v2.3
+D0105,2025-11-02,Reservas,Medio,Performance,Resuelto,Mauro Serrano,0,P1,QA,Sprint 11,v3.6
+D0106,2025-11-03,Busqueda,Alto,UI,En progreso,José Emilio Candelaria,9,P1,Staging,Sprint 2,v3.1
+D0107,2025-09-11,Busqueda,Alto,Seguridad,Abierto,Lic. Ricardo Cavazos,8,P2,Produccion,Sprint 6,v3.9
+D0108,2025-10-28,Busqueda,Critico,Seguridad,Resuelto,Mariano Saavedra Calderón,0,P4,Staging,Sprint 11,v1.7
+D0109,2025-10-13,Reportes,Medio,Performance,Resuelto,Ing. César Hidalgo,0,P3,Produccion,Sprint 10,v2.7
+D0110,2025-09-13,Pagos,Medio,Seguridad,Resuelto,Angélica Israel Orosco,0,P3,QA,Sprint 3,v1.1
+D0111,2025-09-23,Autenticacion,Medio,Datos,En progreso,Octavio Joaquín Palomino Ulibarri,5,P3,Staging,Sprint 2,v3.9
+D0112,2025-10-11,Autenticacion,Medio,Seguridad,Resuelto,Samuel Mario Rivero,0,P1,Produccion,Sprint 1,v1.0
+D0113,2025-09-19,Autenticacion,Medio,Performance,Abierto,Margarita Ofelia Cardenas Tirado,7,P1,Staging,Sprint 12,v3.3
+D0114,2025-10-14,Notificaciones,Bajo,Performance,Resuelto,Arturo Benítez,0,P3,Staging,Sprint 9,v3.7
+D0115,2025-09-08,Busqueda,Medio,UI,Resuelto,Diana Sandra Meza,0,P1,Produccion,Sprint 5,v1.4
+D0116,2025-10-09,Notificaciones,Bajo,UI,Resuelto,José María Georgina Feliciano,0,P3,Staging,Sprint 2,v3.1
+D0117,2025-10-28,Busqueda,Medio,Funcional,Abierto,Alta  Gracia Cristina Mata Zarate,8,P4,Produccion,Sprint 8,v2.4
+D0118,2025-09-24,Busqueda,Medio,Datos,Abierto,Amalia Badillo Hurtado,4,P3,Produccion,Sprint 3,v2.4
+D0119,2025-10-07,Notificaciones,Bajo,UI,Resuelto,Irene Molina,0,P2,Staging,Sprint 9,v3.1
+D0120,2025-10-01,Busqueda,Bajo,UI,Resuelto,Rosalia Manuel Velázquez de la Crúz,0,P1,Produccion,Sprint 10,v3.6
+D0121,2025-09-25,Reportes,Alto,UI,En progreso,Leonardo Aguirre,3,P2,QA,Sprint 12,v1.4
+D0122,2025-09-23,Reservas,Critico,Datos,Resuelto,Rubén Rosario Limón Mateo,0,P3,Staging,Sprint 6,v3.7
+D0123,2025-10-16,Notificaciones,Bajo,Seguridad,En progreso,Dr. Cristal Esquibel,3,P2,Produccion,Sprint 6,v1.2
+D0124,2025-10-07,Pagos,Alto,UI,Resuelto,Lic. Samuel Rael,0,P2,QA,Sprint 5,v3.5
+D0125,2025-10-19,Reportes,Bajo,UI,Resuelto,Mónica Miramontes,0,P4,QA,Sprint 6,v2.6
+D0126,2025-09-30,Pagos,Alto,Datos,En progreso,Mtro. Manuel Orosco,6,P2,Staging,Sprint 5,v3.7
+D0127,2025-09-23,Autenticacion,Critico,Performance,En progreso,René Miguel Mascareñas Gutiérrez,7,P3,Produccion,Sprint 10,v3.0
+D0128,2025-09-08,Busqueda,Medio,Performance,Abierto,Cristina Dalia Partida Cotto,1,P2,Staging,Sprint 3,v1.9
+D0129,2025-09-10,Notificaciones,Critico,Performance,Abierto,Eugenia Velázquez Trejo,6,P2,Staging,Sprint 8,v3.1
+D0130,2025-10-25,Autenticacion,Alto,Datos,En progreso,Soledad Pamela Fonseca Posada,2,P2,Staging,Sprint 9,v3.0
+D0131,2025-10-27,Reportes,Medio,UI,Resuelto,Alberto Urbina,0,P1,QA,Sprint 6,v2.2
+D0132,2025-09-06,Reservas,Critico,UI,Resuelto,Ángela Barajas,0,P2,QA,Sprint 5,v2.6
+D0133,2025-09-29,Reportes,Medio,Performance,Abierto,Felipe Olivárez Ruelas,5,P4,QA,Sprint 2,v1.3
+D0134,2025-10-29,Notificaciones,Alto,Seguridad,En progreso,Eva Madrid,1,P4,Produccion,Sprint 12,v2.9
+D0135,2025-09-27,Autenticacion,Medio,Seguridad,Resuelto,Mtro. Norma Sisneros,0,P3,Staging,Sprint 11,v3.9
+D0136,2025-09-17,Notificaciones,Medio,Performance,Abierto,Victoria Barela,6,P4,Staging,Sprint 10,v3.3
+D0137,2025-10-23,Reservas,Alto,Seguridad,Abierto,Aldonza Mónica Dueñas Collazo,9,P3,Staging,Sprint 2,v2.6
+D0138,2025-09-29,Pagos,Bajo,Performance,Resuelto,José Manuél Luis Miguel Díaz,0,P3,Produccion,Sprint 2,v2.1
+D0139,2025-10-15,Pagos,Medio,UI,En progreso,Dr. Hermelinda Cabrera,10,P1,Staging,Sprint 12,v2.5
+D0140,2025-09-08,Reportes,Alto,Seguridad,En progreso,Paola Meza,10,P2,Staging,Sprint 1,v3.0
+D0141,2025-10-07,Pagos,Alto,UI,Abierto,Dr. Gabriela Prado,10,P3,Staging,Sprint 9,v2.3
+D0142,2025-09-08,Pagos,Medio,Performance,Resuelto,Germán Mata,0,P3,Produccion,Sprint 7,v2.5
+D0143,2025-09-21,Busqueda,Alto,Performance,Abierto,Andrés Marcela Godínez,7,P3,Produccion,Sprint 10,v2.8
+D0144,2025-10-24,Notificaciones,Bajo,Datos,Resuelto,Felix Barrera,0,P4,QA,Sprint 5,v3.8
+D0145,2025-09-16,Busqueda,Bajo,Funcional,Resuelto,Cristal Sonia Valentín Lara,0,P1,Staging,Sprint 6,v3.8
+D0146,2025-10-09,Notificaciones,Medio,Performance,Abierto,Laura Esteban Fernández,5,P4,Staging,Sprint 4,v1.2
+D0147,2025-10-02,Autenticacion,Bajo,Performance,En progreso,Ing. Clemente Galindo,9,P3,Produccion,Sprint 2,v2.2
+D0148,2025-09-07,Pagos,Medio,Funcional,Resuelto,Serafín Liliana Abreu Sisneros,0,P4,QA,Sprint 5,v1.7
+D0149,2025-09-23,Reportes,Bajo,Funcional,Resuelto,Elias Tomás Garrido Uribe,0,P4,Staging,Sprint 11,v1.0
+D0150,2025-10-16,Pagos,Alto,Performance,Resuelto,Aida Naranjo Quiñónez,0,P3,QA,Sprint 2,v2.9
+D0151,2025-10-08,Notificaciones,Medio,UI,Resuelto,Adalberto Linda Pichardo,0,P4,Produccion,Sprint 8,v2.0
+D0152,2025-10-05,Reservas,Critico,Funcional,En progreso,Lucía Meraz,10,P4,QA,Sprint 2,v3.4
+D0153,2025-09-20,Notificaciones,Bajo,Seguridad,Resuelto,Ing. Felix Villa,0,P3,QA,Sprint 9,v1.2
+D0154,2025-09-18,Pagos,Medio,Performance,En progreso,Ing. Mercedes Magaña,9,P3,QA,Sprint 9,v3.8
+D0155,2025-10-09,Busqueda,Medio,Performance,Abierto,Rosa Alfaro,5,P1,Staging,Sprint 10,v3.2
+D0156,2025-09-12,Reservas,Alto,Funcional,Abierto,Guillermo Valverde Castañeda,6,P4,Produccion,Sprint 8,v2.5
+D0157,2025-09-15,Reservas,Medio,Performance,Resuelto,Reina Guevara,0,P3,Produccion,Sprint 6,v2.4
+D0158,2025-09-13,Reportes,Alto,Funcional,Resuelto,Lourdes Fuentes,0,P2,Staging,Sprint 9,v2.4
+D0159,2025-09-09,Notificaciones,Alto,Datos,Resuelto,Luis Manuel Orosco Carrasco,0,P2,Staging,Sprint 7,v2.4
+D0160,2025-10-11,Notificaciones,Bajo,UI,Resuelto,Diego Delgado,0,P1,Produccion,Sprint 2,v1.5
+D0161,2025-10-28,Reportes,Alto,Performance,Resuelto,Sr(a). José Carlos de la Rosa,0,P3,Staging,Sprint 11,v3.4
+D0162,2025-11-04,Autenticacion,Medio,Funcional,En progreso,Andrea Nelly Olivares,10,P4,Staging,Sprint 9,v3.8
+D0163,2025-10-09,Pagos,Bajo,UI,Abierto,Carolina Jasso Sánchez,7,P1,Produccion,Sprint 11,v3.1
+D0164,2025-09-12,Notificaciones,Medio,Seguridad,Resuelto,Jaime Sauceda Balderas,0,P3,Staging,Sprint 3,v3.3
+D0165,2025-09-06,Reservas,Alto,UI,En progreso,Norma Aida Armenta Patiño,5,P1,Produccion,Sprint 12,v1.7
+D0166,2025-10-29,Reservas,Bajo,Seguridad,En progreso,Alta  Gracia Lomeli,4,P4,QA,Sprint 9,v1.5
+D0167,2025-10-19,Pagos,Medio,UI,Resuelto,Esther Silvia Saiz,0,P3,Staging,Sprint 1,v3.4
+D0168,2025-10-30,Busqueda,Medio,Datos,Resuelto,Sr(a). Guadalupe Guerrero,0,P2,Produccion,Sprint 7,v1.4
+D0169,2025-09-30,Notificaciones,Bajo,Seguridad,Resuelto,María José del Río,0,P2,Staging,Sprint 2,v2.1
+D0170,2025-09-23,Reportes,Medio,UI,Resuelto,Cynthia Lorena Marrero Solorio,0,P1,Produccion,Sprint 3,v3.8
+D0171,2025-09-22,Notificaciones,Alto,Funcional,En progreso,Guillermo Melgar Yáñez,6,P1,QA,Sprint 11,v1.7
+D0172,2025-11-01,Autenticacion,Bajo,Datos,En progreso,Dulce María Alonso Maldonado,5,P3,QA,Sprint 3,v2.4
+D0173,2025-10-30,Reservas,Medio,Funcional,En progreso,Lic. Aida Pineda,9,P1,Produccion,Sprint 5,v2.5
+D0174,2025-10-01,Pagos,Alto,Performance,En progreso,Manuel Vicente Mojica,1,P2,Produccion,Sprint 3,v1.0
+D0175,2025-10-28,Busqueda,Bajo,Performance,Resuelto,Mtro. Barbara Bétancourt,0,P4,QA,Sprint 5,v2.5
+D0176,2025-10-27,Busqueda,Bajo,Datos,Resuelto,Lic. Rebeca Meza,0,P4,Staging,Sprint 5,v2.9
+D0177,2025-10-21,Notificaciones,Bajo,Datos,Resuelto,Ing. Alfonso Paredes,0,P1,QA,Sprint 3,v3.6
+D0178,2025-09-23,Notificaciones,Bajo,UI,Abierto,Ofelia Elizondo,10,P1,Produccion,Sprint 6,v2.3
+D0179,2025-10-30,Reportes,Medio,Seguridad,Resuelto,Bernabé Vaca,0,P4,Staging,Sprint 1,v1.1
+D0180,2025-09-13,Pagos,Medio,Performance,En progreso,Mtro. Uriel Villagómez,9,P4,Produccion,Sprint 12,v1.8
+D0181,2025-09-25,Reportes,Medio,Funcional,Resuelto,Ing. Elias Sisneros,0,P3,QA,Sprint 6,v3.0
+D0182,2025-10-28,Busqueda,Medio,Datos,En progreso,Leonardo Burgos Matías,1,P3,QA,Sprint 1,v1.7
+D0183,2025-09-29,Reservas,Bajo,Performance,Resuelto,Dr. Teodoro Beltrán,0,P2,QA,Sprint 1,v2.1
+D0184,2025-10-10,Pagos,Bajo,UI,En progreso,Sessa Mauricio Iglesias Bermúdez,5,P3,QA,Sprint 1,v2.1
+D0185,2025-09-14,Autenticacion,Medio,Funcional,En progreso,Salvador Raya Alarcón,2,P4,Produccion,Sprint 8,v2.5
+D0186,2025-09-18,Reportes,Alto,Performance,Resuelto,Alejandro Rosalia Gálvez Cardenas,0,P1,QA,Sprint 5,v3.5
+D0187,2025-10-06,Pagos,Bajo,Funcional,En progreso,Pedro Duarte,5,P2,Staging,Sprint 10,v3.4
+D0188,2025-10-17,Autenticacion,Alto,UI,Resuelto,Sr(a). Gabriela Sandoval,0,P4,Produccion,Sprint 4,v2.8
+D0189,2025-09-27,Reservas,Alto,UI,En progreso,Lic. Horacio Véliz,4,P2,Staging,Sprint 10,v1.9
+D0190,2025-10-12,Busqueda,Medio,UI,En progreso,Sr(a). Wilfrido Vega,1,P4,QA,Sprint 10,v2.5
+D0191,2025-09-14,Reportes,Bajo,Datos,Resuelto,Patricia Jacobo Galindo Brito,0,P1,Produccion,Sprint 11,v3.4
+D0192,2025-09-11,Pagos,Critico,Datos,Resuelto,Dr. Berta Luna,0,P3,Staging,Sprint 3,v1.3
+D0193,2025-09-29,Autenticacion,Alto,Funcional,En progreso,Ángel Bravo Amaya,6,P4,Produccion,Sprint 9,v3.1
+D0194,2025-09-13,Reservas,Critico,Seguridad,Resuelto,Porfirio Santiago Montaño Prado,0,P2,Staging,Sprint 8,v2.8
+D0195,2025-10-16,Reservas,Alto,Funcional,En progreso,Sr(a). Julio César Reséndez,1,P4,Staging,Sprint 1,v1.7
+D0196,2025-10-08,Notificaciones,Alto,Seguridad,Abierto,Esteban Berríos Montero,4,P1,QA,Sprint 1,v3.1
+D0197,2025-10-26,Reportes,Alto,Datos,Resuelto,Jesús Julia Mota Cadena,0,P1,QA,Sprint 9,v2.8
+D0198,2025-10-14,Reservas,Alto,UI,En progreso,Catalina Cepeda Raya,3,P3,QA,Sprint 2,v3.4
+D0199,2025-09-15,Notificaciones,Critico,UI,En progreso,Carmen Beatriz Bañuelos Jáquez,7,P1,QA,Sprint 11,v1.7
+D0200,2025-10-12,Notificaciones,Medio,Datos,Resuelto,Dr. Alonso Mojica,0,P3,Produccion,Sprint 5,v3.9
+D0201,2025-10-15,Pagos,Alto,Funcional,Resuelto,Ing. Miguel Zamora,0,P1,Staging,Sprint 11,v2.6
+D0202,2025-10-24,Pagos,Bajo,Seguridad,En progreso,Nadia Puga Murillo,2,P2,Produccion,Sprint 8,v1.8
+D0203,2025-10-28,Pagos,Alto,Performance,Resuelto,Lucía Mascareñas Espinosa,0,P3,QA,Sprint 4,v2.3
+D0204,2025-10-04,Busqueda,Critico,Seguridad,Resuelto,Dr. Sofía Velasco,0,P4,Produccion,Sprint 6,v3.6
+D0205,2025-10-17,Reportes,Bajo,Seguridad,Resuelto,Luisa David Preciado,0,P3,QA,Sprint 8,v3.3
+D0206,2025-10-01,Busqueda,Alto,Seguridad,Resuelto,Vanesa Cintrón,0,P1,Produccion,Sprint 7,v3.8
+D0207,2025-09-14,Reservas,Alto,UI,En progreso,Mónica Rolón,2,P1,Produccion,Sprint 6,v3.0
+D0208,2025-10-04,Autenticacion,Bajo,Funcional,En progreso,Lic. Hilda Vargas,3,P2,Produccion,Sprint 6,v1.8
+D0209,2025-10-13,Reportes,Bajo,Seguridad,Resuelto,Francisco Javier Claudio Muñiz Ceja,0,P2,Staging,Sprint 2,v2.3
+D0210,2025-10-19,Notificaciones,Medio,UI,Resuelto,Sergio Hugo Guzmán Lucero,0,P1,Produccion,Sprint 11,v1.1
+D0211,2025-09-13,Reportes,Alto,Datos,Abierto,Cristal Salvador Vera,4,P3,QA,Sprint 9,v3.2
+D0212,2025-11-03,Reportes,Medio,Performance,En progreso,Ana Luisa Ibarra,3,P1,Staging,Sprint 9,v3.9
+D0213,2025-09-26,Pagos,Medio,Funcional,En progreso,José Carlos Arroyo,1,P3,Produccion,Sprint 5,v3.2
+D0214,2025-10-13,Reservas,Critico,Datos,Resuelto,Teodoro Abril Sarabia Archuleta,0,P1,Produccion,Sprint 5,v1.6
+D0215,2025-09-23,Reportes,Alto,UI,Resuelto,Sessa Hilda Espinal,0,P1,QA,Sprint 1,v2.3
+D0216,2025-10-17,Reservas,Medio,UI,En progreso,Julia Leyva,9,P1,QA,Sprint 3,v1.6
+D0217,2025-10-01,Autenticacion,Bajo,Seguridad,En progreso,Ramiro Juan Carlos Pelayo Laboy,4,P2,QA,Sprint 4,v2.4
+D0218,2025-10-16,Busqueda,Critico,Datos,Abierto,Violeta Solano,1,P2,Staging,Sprint 12,v2.1
+D0219,2025-09-23,Pagos,Alto,Funcional,Resuelto,Salma Mesa Hinojosa,0,P1,QA,Sprint 2,v3.0
+D0220,2025-10-04,Busqueda,Bajo,Datos,En progreso,Ignacio Barbara Padrón,1,P1,QA,Sprint 10,v2.1
+D0221,2025-10-01,Reservas,Alto,Performance,Resuelto,Mtro. José Ponce,0,P2,Produccion,Sprint 1,v1.6
+D0222,2025-10-19,Busqueda,Bajo,Datos,Abierto,Julio Lucas Lerma Hinojosa,1,P2,Staging,Sprint 8,v3.6
+D0223,2025-09-09,Pagos,Alto,Seguridad,En progreso,Dr. María Elena Vanegas,6,P3,Produccion,Sprint 9,v1.6
+D0224,2025-09-21,Pagos,Medio,Seguridad,En progreso,Elvira Nancy Elizondo Bañuelos,5,P4,Produccion,Sprint 10,v1.1
+D0225,2025-10-02,Pagos,Medio,Seguridad,Resuelto,Raquel Rentería,0,P1,Staging,Sprint 12,v2.0
+D0226,2025-10-17,Notificaciones,Medio,Datos,En progreso,Dr. Eva Núñez,5,P3,QA,Sprint 2,v1.9
+D0227,2025-11-02,Busqueda,Medio,Seguridad,En progreso,José Emilio Lilia Hernández Garica,4,P1,Staging,Sprint 9,v1.1
+D0228,2025-10-05,Notificaciones,Medio,Seguridad,Resuelto,Pilar Margarita Martínez Castañeda,0,P2,QA,Sprint 11,v1.2
+D0229,2025-10-07,Notificaciones,Medio,UI,Abierto,Rafaél Fidel del Valle,5,P4,Staging,Sprint 12,v3.8
+D0230,2025-09-23,Autenticacion,Medio,UI,En progreso,María del Carmen Hurtado,10,P4,Produccion,Sprint 8,v1.0
+D0231,2025-10-24,Autenticacion,Medio,Performance,Resuelto,María del Carmen Aurora de Anda Solorzano,0,P2,QA,Sprint 10,v1.4
+D0232,2025-10-27,Pagos,Alto,Datos,En progreso,Mitzy Arreola,8,P4,Produccion,Sprint 10,v2.4
+D0233,2025-10-23,Busqueda,Alto,Seguridad,En progreso,Timoteo Madera Galarza,10,P1,Staging,Sprint 3,v1.2
+D0234,2025-09-14,Notificaciones,Bajo,UI,Resuelto,César Patiño,0,P2,QA,Sprint 11,v2.9
+D0235,2025-10-04,Notificaciones,Medio,Funcional,Resuelto,Ing. Angélica Esparza,0,P1,QA,Sprint 12,v3.2
+D0236,2025-09-28,Reportes,Medio,UI,Resuelto,Gregorio José Emilio Lovato,0,P2,QA,Sprint 8,v2.6
+D0237,2025-09-16,Notificaciones,Medio,Funcional,Abierto,Ricardo Pablo Pulido,7,P2,QA,Sprint 5,v2.2
+D0238,2025-10-27,Busqueda,Alto,UI,En progreso,Amelia Guardado,3,P2,Produccion,Sprint 6,v3.6
+D0239,2025-09-29,Reportes,Medio,Funcional,Abierto,Ing. Mateo Ornelas,5,P2,QA,Sprint 12,v3.5
+D0240,2025-10-05,Reportes,Critico,Datos,Resuelto,Cristobal Zúñiga Ayala,0,P3,QA,Sprint 10,v3.8
+D0241,2025-10-04,Reportes,Medio,UI,Resuelto,Beatriz Contreras Ceballos,0,P3,Staging,Sprint 3,v3.6
+D0242,2025-09-18,Reservas,Medio,Datos,Resuelto,Mariana Nevárez Cantú,0,P3,QA,Sprint 6,v1.8
+D0243,2025-10-02,Reportes,Bajo,Funcional,Resuelto,Sr(a). Ariadna Flórez,0,P2,Staging,Sprint 1,v3.7
+D0244,2025-10-02,Reportes,Medio,Datos,En progreso,Humberto José María Hidalgo,2,P2,QA,Sprint 12,v3.6
+D0245,2025-10-15,Notificaciones,Alto,Funcional,Resuelto,Lic. Guadalupe Murillo,0,P4,Staging,Sprint 10,v2.1
+D0246,2025-09-10,Notificaciones,Medio,Datos,En progreso,Estela Barela,6,P4,Staging,Sprint 6,v2.0
+D0247,2025-10-06,Busqueda,Medio,Performance,Resuelto,Amanda Emilia Macías Padilla,0,P1,QA,Sprint 7,v3.8
+D0248,2025-10-23,Notificaciones,Medio,Performance,Resuelto,Mtro. Wendolin Sotelo,0,P4,Produccion,Sprint 9,v3.8
+D0249,2025-10-09,Autenticacion,Medio,Seguridad,Resuelto,Hilda Hidalgo,0,P2,Staging,Sprint 2,v3.1
+D0250,2025-09-13,Notificaciones,Alto,Performance,Abierto,Dulce María Ilse Alonso,5,P2,Staging,Sprint 5,v3.4
+D0251,2025-09-16,Autenticacion,Medio,Funcional,En progreso,Jacobo Serna Méndez,2,P3,QA,Sprint 10,v3.8
+D0252,2025-10-29,Busqueda,Medio,Datos,En progreso,Mtro. María Elena Casillas,5,P3,QA,Sprint 8,v3.8
+D0253,2025-09-30,Reservas,Critico,Funcional,Resuelto,Ariadna Lozano,0,P2,QA,Sprint 10,v1.9
+D0254,2025-10-05,Autenticacion,Medio,Performance,Resuelto,Norma Caraballo,0,P1,Staging,Sprint 9,v2.5
+D0255,2025-09-23,Pagos,Medio,Seguridad,En progreso,Celia Laura Jasso Rosario,6,P3,Produccion,Sprint 11,v2.2
+D0256,2025-10-10,Notificaciones,Alto,Datos,Resuelto,José Manuél Aguayo Palomo,0,P4,Produccion,Sprint 9,v2.2
+D0257,2025-10-06,Notificaciones,Alto,Performance,Abierto,Socorro Garibay Tamayo,4,P1,QA,Sprint 6,v3.7
+D0258,2025-10-24,Notificaciones,Medio,Performance,En progreso,Ing. Andrea Verduzco,10,P3,Staging,Sprint 8,v1.1
+D0259,2025-09-16,Reservas,Alto,Funcional,En progreso,Norma Nieves Narváez,8,P4,Produccion,Sprint 5,v2.4
+D0260,2025-09-11,Reservas,Critico,UI,Resuelto,Alfredo Balderas,0,P2,QA,Sprint 3,v2.6
+D0261,2025-09-19,Notificaciones,Medio,Datos,En progreso,Aida Terán Garay,10,P3,Staging,Sprint 11,v2.9
+D0262,2025-09-09,Autenticacion,Critico,Performance,Resuelto,Sr(a). Judith Ledesma,0,P3,Produccion,Sprint 1,v1.5
+D0263,2025-11-01,Reportes,Bajo,Datos,Resuelto,Ing. Esther Herrera,0,P1,QA,Sprint 8,v3.9
+D0264,2025-09-22,Pagos,Critico,Seguridad,Resuelto,Victoria Teresa Barajas Benítez,0,P1,Staging,Sprint 3,v1.2
+D0265,2025-10-02,Reservas,Medio,Funcional,Abierto,Mtro. Isabela Monroy,9,P1,Staging,Sprint 8,v2.2
+D0266,2025-09-27,Notificaciones,Critico,Performance,Resuelto,Martín Archuleta,0,P2,Produccion,Sprint 7,v2.4
+D0267,2025-10-26,Notificaciones,Critico,Funcional,En progreso,Lorena Toledo,4,P1,Produccion,Sprint 3,v3.8
+D0268,2025-10-31,Reservas,Medio,UI,Resuelto,Eric Emilio Feliciano Laboy,0,P3,QA,Sprint 3,v1.8
+D0269,2025-10-07,Notificaciones,Medio,Funcional,En progreso,Úrsula Patiño Tamez,10,P1,Produccion,Sprint 6,v3.8
+D0270,2025-09-30,Busqueda,Medio,UI,Resuelto,Mayte Aguilar Laboy,0,P3,Produccion,Sprint 10,v1.4
+D0271,2025-09-16,Pagos,Bajo,Seguridad,Resuelto,Adela Vigil,0,P3,Staging,Sprint 6,v3.4
+D0272,2025-09-29,Notificaciones,Bajo,Performance,En progreso,Rubén Zavala Pantoja,9,P1,Produccion,Sprint 4,v2.9
+D0273,2025-11-01,Busqueda,Alto,Performance,Abierto,Daniela Bueno,3,P1,Staging,Sprint 4,v3.9
+D0274,2025-10-17,Reportes,Critico,Seguridad,En progreso,Eugenio Verdugo,4,P2,Staging,Sprint 12,v2.4
+D0275,2025-09-20,Reportes,Alto,Datos,Resuelto,Esperanza Cadena Iglesias,0,P4,Produccion,Sprint 1,v2.6
+D0276,2025-09-12,Notificaciones,Medio,Funcional,Resuelto,Enrique Zelaya Pabón,0,P2,QA,Sprint 7,v2.5
+D0277,2025-10-09,Reportes,Bajo,Datos,Resuelto,Pascual Alvarez,0,P4,Produccion,Sprint 4,v3.9
+D0278,2025-10-03,Busqueda,Bajo,Seguridad,Resuelto,Vicente Claudio Calderón,0,P2,Produccion,Sprint 6,v2.3
+D0279,2025-09-25,Reservas,Medio,Funcional,En progreso,Benjamín Oswaldo Blanco Caballero,7,P2,Staging,Sprint 9,v1.0
+D0280,2025-10-18,Reportes,Medio,Datos,En progreso,María Cristina Aparicio Ferrer,8,P3,QA,Sprint 7,v3.0
+D0281,2025-09-21,Reservas,Medio,Performance,Abierto,Verónica Osorio,6,P3,Staging,Sprint 7,v1.2
+D0282,2025-10-21,Autenticacion,Medio,Datos,En progreso,Isaac Wilfrido Villalobos,2,P1,Staging,Sprint 5,v1.7
+D0283,2025-10-26,Reservas,Critico,Performance,Resuelto,Ana Luisa Anel Peralta Tovar,0,P4,Produccion,Sprint 9,v2.1
+D0284,2025-10-22,Autenticacion,Critico,Datos,Resuelto,María Garrido,0,P2,Staging,Sprint 7,v1.5
+D0285,2025-10-21,Autenticacion,Bajo,UI,Resuelto,Ricardo Razo,0,P1,Staging,Sprint 3,v2.6
+D0286,2025-10-02,Reportes,Medio,UI,Resuelto,Mtro. Natividad Vega,0,P1,Produccion,Sprint 11,v3.5
+D0287,2025-09-29,Autenticacion,Alto,Seguridad,En progreso,Raúl Gonzalo Saavedra Carranza,10,P1,QA,Sprint 1,v1.9
+D0288,2025-09-25,Reportes,Medio,UI,En progreso,Mtro. Mitzy Murillo,10,P4,QA,Sprint 2,v1.0
+D0289,2025-11-01,Reportes,Critico,Datos,En progreso,Irma Cantú,10,P4,Produccion,Sprint 11,v2.4
+D0290,2025-10-15,Busqueda,Bajo,Funcional,Resuelto,Dulce María Bernabé Lara,0,P1,QA,Sprint 9,v3.5
+D0291,2025-10-10,Autenticacion,Alto,Datos,Abierto,Guillermo Reséndez,10,P4,Produccion,Sprint 8,v2.8
+D0292,2025-10-11,Reservas,Alto,Funcional,Resuelto,Ing. Rolando Jiménez,0,P2,Staging,Sprint 9,v3.5
+D0293,2025-09-06,Notificaciones,Alto,Seguridad,En progreso,Augusto Porfirio Véliz Ureña,3,P2,Staging,Sprint 8,v2.5
+D0294,2025-10-05,Reportes,Bajo,Seguridad,En progreso,Mateo Medrano Quiroz,9,P4,Staging,Sprint 9,v1.7
+D0295,2025-11-02,Autenticacion,Bajo,Funcional,Resuelto,Sr(a). Paola Baca,0,P4,QA,Sprint 8,v3.1
+D0296,2025-09-10,Pagos,Alto,UI,Resuelto,Alonso Emilio Bustamante,0,P3,QA,Sprint 10,v3.3
+D0297,2025-09-08,Notificaciones,Medio,Datos,Abierto,Leonor Osorio Navarro,3,P2,Staging,Sprint 11,v2.2
+D0298,2025-10-22,Notificaciones,Medio,Funcional,Resuelto,Barbara Georgina Estrada Villegas,0,P1,Produccion,Sprint 12,v2.4
+D0299,2025-09-23,Reportes,Medio,Datos,Abierto,Dr. Uriel Montes,2,P1,Produccion,Sprint 4,v1.8
+D0300,2025-10-16,Notificaciones,Bajo,Funcional,Resuelto,Germán Noelia Rosas Arevalo,0,P1,Produccion,Sprint 3,v3.1
+D0301,2025-10-30,Reportes,Medio,Performance,Resuelto,Lic. Alma Pizarro,0,P1,Produccion,Sprint 9,v1.0
+D0302,2025-10-01,Autenticacion,Alto,UI,En progreso,Elsa Carranza Lugo,9,P4,Staging,Sprint 10,v2.6
+D0303,2025-10-06,Busqueda,Alto,Seguridad,Resuelto,Gabino Nicolás Portillo,0,P2,Staging,Sprint 5,v2.9
+D0304,2025-10-14,Reportes,Bajo,UI,En progreso,Dr. Guillermo Salcedo,4,P3,Produccion,Sprint 9,v3.3
+D0305,2025-09-16,Reportes,Bajo,UI,Resuelto,Nadia Bermúdez Estévez,0,P2,Staging,Sprint 1,v1.2
+D0306,2025-10-12,Notificaciones,Critico,Datos,En progreso,María Eugenia Beatriz Riojas Villalpando,6,P3,Staging,Sprint 10,v1.5
+D0307,2025-09-21,Notificaciones,Alto,Funcional,Resuelto,Minerva Salinas Ornelas,0,P4,Produccion,Sprint 11,v3.1
+D0308,2025-10-03,Reportes,Bajo,Seguridad,Resuelto,Guillermo Antonia Perea Garrido,0,P2,Produccion,Sprint 11,v3.9
+D0309,2025-09-23,Reportes,Medio,Performance,En progreso,Norma Soria Segura,1,P3,QA,Sprint 3,v2.4
+D0310,2025-09-25,Autenticacion,Alto,UI,Abierto,Verónica Cornelio Salinas Holguín,6,P3,Staging,Sprint 6,v1.0
+D0311,2025-09-10,Busqueda,Medio,Datos,Resuelto,Olga Meléndez,0,P4,Staging,Sprint 1,v3.3
+D0312,2025-10-28,Reservas,Medio,Seguridad,Resuelto,Fernando Marisela Tafoya,0,P2,Produccion,Sprint 5,v2.0
+D0313,2025-10-10,Notificaciones,Critico,Datos,Resuelto,Sr(a). Leonor Carvajal,0,P2,Produccion,Sprint 12,v2.5
+D0314,2025-10-19,Autenticacion,Critico,Funcional,Resuelto,Eloy Ballesteros Véliz,0,P3,Produccion,Sprint 6,v1.1
+D0315,2025-09-24,Notificaciones,Medio,Performance,Abierto,Hernán Guillen,8,P4,QA,Sprint 8,v1.8
+D0316,2025-10-21,Notificaciones,Critico,Seguridad,En progreso,Dulce María Espinal,5,P3,Staging,Sprint 8,v1.6
+D0317,2025-09-07,Reportes,Bajo,Datos,Resuelto,Celia Fernando Castañeda,0,P4,QA,Sprint 6,v2.1
+D0318,2025-09-14,Busqueda,Medio,UI,Resuelto,Hermelinda Leal Solorzano,0,P2,QA,Sprint 5,v3.4
+D0319,2025-11-01,Pagos,Critico,UI,Abierto,Catalina Anel Varela,6,P2,Produccion,Sprint 12,v1.5
+D0320,2025-09-26,Pagos,Bajo,Seguridad,Resuelto,Mtro. Julio Mata,0,P1,Produccion,Sprint 11,v3.5
+D0321,2025-09-25,Busqueda,Critico,Datos,Resuelto,Susana Granados,0,P3,QA,Sprint 10,v1.5
+D0322,2025-10-21,Busqueda,Bajo,Funcional,Abierto,Clemente Patricio Puga,2,P1,Staging,Sprint 6,v2.7
+D0323,2025-09-16,Busqueda,Bajo,Funcional,En progreso,Cecilia Matías,8,P1,Staging,Sprint 12,v2.9
+D0324,2025-09-24,Reservas,Alto,Performance,Abierto,Citlali Miguel Regalado,3,P1,Produccion,Sprint 10,v3.9
+D0325,2025-11-04,Autenticacion,Medio,UI,Resuelto,Jaime Delia Gil Fuentes,0,P2,Staging,Sprint 6,v1.8
+D0326,2025-10-30,Autenticacion,Alto,Funcional,En progreso,Francisco Javier Sotelo Muro,3,P3,Produccion,Sprint 5,v1.9
+D0327,2025-11-01,Reservas,Medio,UI,Abierto,Teodoro Linares,3,P3,Staging,Sprint 10,v3.6
+D0328,2025-11-02,Notificaciones,Bajo,Performance,Resuelto,Sara Oswaldo Ornelas,0,P3,Staging,Sprint 7,v2.2
+D0329,2025-09-28,Autenticacion,Medio,Seguridad,Resuelto,Jos Ortega Otero,0,P1,Staging,Sprint 11,v3.8
+D0330,2025-09-23,Autenticacion,Bajo,Funcional,Abierto,Espartaco Espinoza,1,P4,Staging,Sprint 7,v3.4
+D0331,2025-10-05,Autenticacion,Bajo,Seguridad,Resuelto,Florencia Daniel Chacón Verduzco,0,P3,Staging,Sprint 9,v1.0
+D0332,2025-11-04,Reservas,Critico,Funcional,En progreso,Manuel Fidel Treviño,2,P3,QA,Sprint 3,v1.0
+D0333,2025-09-15,Busqueda,Alto,UI,Abierto,Georgina Pulido,4,P2,Produccion,Sprint 6,v1.3
+D0334,2025-09-23,Busqueda,Alto,Funcional,Resuelto,Laura Julio César Berríos,0,P3,Produccion,Sprint 5,v3.6
+D0335,2025-10-30,Autenticacion,Medio,UI,Resuelto,Humberto Maldonado Zavala,0,P1,QA,Sprint 6,v1.5
+D0336,2025-10-07,Reportes,Alto,Performance,Resuelto,Amalia Cabrera Altamirano,0,P2,Produccion,Sprint 1,v3.3
+D0337,2025-10-09,Autenticacion,Medio,UI,Resuelto,Maximiliano Huerta Godínez,0,P1,QA,Sprint 2,v2.5
+D0338,2025-09-13,Autenticacion,Bajo,UI,En progreso,Eduardo Beatriz Bermúdez Carranza,8,P1,Staging,Sprint 5,v2.2
+D0339,2025-09-28,Reportes,Medio,Datos,Abierto,Rodolfo Alta  Gracia Navarro Maestas,7,P4,QA,Sprint 12,v1.4
+D0340,2025-10-15,Reportes,Medio,Performance,Resuelto,Martha Marisela Vargas,0,P1,Staging,Sprint 4,v3.5
+D0341,2025-10-05,Busqueda,Alto,Funcional,Abierto,Luz Quintana Carranza,4,P2,Produccion,Sprint 3,v2.1
+D0342,2025-10-12,Autenticacion,Critico,Datos,En progreso,Daniel Ramón,2,P3,Produccion,Sprint 3,v2.9
+D0343,2025-11-01,Busqueda,Medio,Funcional,En progreso,Dr. Jerónimo Solorzano,4,P4,QA,Sprint 7,v1.7
+D0344,2025-10-01,Reportes,Bajo,Datos,Resuelto,Sr(a). Emiliano Sanches,0,P4,Produccion,Sprint 2,v2.7
+D0345,2025-10-11,Reservas,Medio,Funcional,En progreso,Sessa Alberto Cavazos,7,P2,Produccion,Sprint 6,v1.3
+D0346,2025-10-20,Autenticacion,Bajo,Performance,Abierto,Jonás Dalia Abreu Gollum,3,P1,QA,Sprint 10,v1.7
+D0347,2025-10-24,Busqueda,Medio,UI,En progreso,Conchita Gallegos Blanco,2,P2,Staging,Sprint 8,v1.6
+D0348,2025-11-02,Busqueda,Bajo,Datos,Abierto,Ivonne Teodoro Orosco Muro,4,P2,QA,Sprint 9,v2.7
+D0349,2025-09-23,Autenticacion,Critico,UI,Abierto,Francisco Laureano Munguía,3,P2,QA,Sprint 9,v2.4
+D0350,2025-09-18,Pagos,Bajo,Funcional,En progreso,César Borrego,7,P3,QA,Sprint 2,v1.9
+D0351,2025-09-13,Autenticacion,Medio,UI,En progreso,Felipe Haro Tejada,3,P1,Produccion,Sprint 7,v2.0
+D0352,2025-09-07,Reservas,Bajo,Funcional,Resuelto,Santiago Coronado Caldera,0,P4,Produccion,Sprint 10,v3.1
+D0353,2025-10-08,Busqueda,Medio,Funcional,En progreso,Verónica Robles,2,P1,Produccion,Sprint 4,v1.0
+D0354,2025-10-31,Reportes,Bajo,Performance,Resuelto,Mtro. Ricardo Meza,0,P1,QA,Sprint 12,v2.8
+D0355,2025-09-29,Reportes,Alto,Datos,Resuelto,Lic. Rolando Arteaga,0,P3,QA,Sprint 8,v3.1
+D0356,2025-10-10,Reportes,Medio,Datos,En progreso,Hermelinda Marroquín,2,P2,Produccion,Sprint 3,v1.5
+D0357,2025-09-17,Reservas,Medio,Seguridad,En progreso,Ing. Diego Blanco,6,P1,Produccion,Sprint 1,v1.6
+D0358,2025-10-27,Notificaciones,Critico,UI,Abierto,Mtro. Rubén Ramos,2,P2,Produccion,Sprint 10,v1.5
+D0359,2025-09-07,Notificaciones,Critico,Datos,En progreso,Guillermina Soria Ponce,1,P4,QA,Sprint 4,v2.0
+D0360,2025-09-23,Busqueda,Medio,UI,Resuelto,Samuel Tejeda,0,P2,Produccion,Sprint 9,v3.4
+D0361,2025-10-21,Pagos,Bajo,Performance,Resuelto,Caridad Ofelia Gallegos,0,P1,Staging,Sprint 3,v3.1
+D0362,2025-10-22,Autenticacion,Medio,Performance,En progreso,María Cristina Zapata,1,P4,Produccion,Sprint 5,v2.8
+D0363,2025-09-29,Busqueda,Medio,Seguridad,En progreso,Gabino Bruno Madrid Partida,9,P4,Staging,Sprint 2,v1.7
+D0364,2025-09-26,Pagos,Alto,Seguridad,Abierto,Berta Flavio Rendón Nieto,6,P4,Staging,Sprint 3,v1.4
+D0365,2025-09-25,Autenticacion,Critico,UI,Resuelto,Barbara María Carrera Loera,0,P3,Produccion,Sprint 10,v1.5
+D0366,2025-09-17,Busqueda,Medio,Performance,En progreso,Ing. Jorge Sanabria,9,P2,Produccion,Sprint 9,v2.7
+D0367,2025-10-17,Autenticacion,Alto,Seguridad,Resuelto,Elena Rosario Valdés,0,P2,QA,Sprint 7,v2.7
+D0368,2025-09-24,Reservas,Bajo,Datos,Resuelto,Juan Mota Miranda,0,P4,Produccion,Sprint 4,v1.8
+D0369,2025-09-11,Reportes,Alto,UI,Resuelto,Jesús Verdugo Laureano,0,P1,Produccion,Sprint 2,v1.4
+D0370,2025-09-22,Notificaciones,Medio,Funcional,En progreso,Espartaco Rendón,6,P1,QA,Sprint 12,v3.2
+D0371,2025-10-18,Pagos,Bajo,Seguridad,En progreso,Aldo Sanabria Cano,9,P3,QA,Sprint 6,v1.9
+D0372,2025-10-26,Reservas,Alto,Performance,En progreso,Mtro. Carla Galarza,9,P4,QA,Sprint 1,v3.1
+D0373,2025-10-24,Reservas,Medio,Funcional,Abierto,Jaime Porfirio Porras Espinal,2,P3,Staging,Sprint 8,v3.0
+D0374,2025-09-12,Notificaciones,Alto,Datos,Abierto,Patricia Manzanares Yáñez,8,P4,QA,Sprint 2,v3.2
+D0375,2025-10-21,Notificaciones,Medio,Funcional,Resuelto,José Eduardo Octavio Otero Ramón,0,P2,Staging,Sprint 4,v2.8
+D0376,2025-10-12,Reportes,Bajo,Datos,Resuelto,Evelio Dulce Peres Alejandro,0,P3,Staging,Sprint 11,v1.1
+D0377,2025-10-30,Pagos,Medio,Funcional,Abierto,Mateo Gloria Sierra Maldonado,6,P1,QA,Sprint 2,v3.3
+D0378,2025-10-05,Reportes,Alto,Funcional,Abierto,Ing. Jacobo Santacruz,1,P3,QA,Sprint 2,v3.3
+D0379,2025-09-28,Reservas,Medio,Funcional,En progreso,Patricia Jos Santiago Palomino,2,P3,QA,Sprint 2,v1.1
+D0380,2025-10-31,Reportes,Medio,Datos,En progreso,Helena Rodrigo Tamez,4,P1,QA,Sprint 12,v2.2
+D0381,2025-10-08,Reportes,Medio,Funcional,Resuelto,Berta Citlali Amador,0,P3,QA,Sprint 10,v1.5
+D0382,2025-11-03,Notificaciones,Medio,Seguridad,Abierto,Jacobo Mascareñas Villarreal,4,P3,QA,Sprint 6,v3.6
+D0383,2025-09-08,Reportes,Bajo,Seguridad,Abierto,Ing. Alta  Gracia Cantú,7,P4,Staging,Sprint 10,v1.5
+D0384,2025-09-19,Reportes,Alto,Seguridad,Resuelto,Sergio Miguel Trejo Menéndez,0,P2,Staging,Sprint 11,v3.1
+D0385,2025-10-28,Notificaciones,Alto,Performance,Resuelto,Luz Gracia,0,P1,QA,Sprint 6,v1.2
+D0386,2025-10-17,Reportes,Medio,Performance,Resuelto,Carolina Patiño Padrón,0,P4,QA,Sprint 9,v3.6
+D0387,2025-09-24,Autenticacion,Alto,Seguridad,Abierto,Lic. Francisca Zavala,8,P1,Produccion,Sprint 9,v2.9
+D0388,2025-09-26,Pagos,Alto,UI,Resuelto,Óliver Bruno Pizarro Escalante,0,P2,Produccion,Sprint 1,v1.0
+D0389,2025-10-04,Reportes,Bajo,Seguridad,En progreso,Gonzalo Palacios Aguirre,9,P4,Produccion,Sprint 2,v3.3
+D0390,2025-10-01,Autenticacion,Critico,Seguridad,En progreso,Ing. Mauricio Bermúdez,2,P2,Produccion,Sprint 5,v3.7
+D0391,2025-09-07,Busqueda,Bajo,Funcional,Resuelto,Darío Modesto Ledesma de León,0,P4,QA,Sprint 8,v2.4
+D0392,2025-10-19,Pagos,Bajo,Funcional,Abierto,Vanesa Olivárez Orozco,1,P4,Staging,Sprint 8,v3.4
+D0393,2025-10-12,Reportes,Bajo,Funcional,Resuelto,Amalia Mondragón Matos,0,P1,Produccion,Sprint 1,v3.9
+D0394,2025-10-25,Reportes,Medio,Performance,Resuelto,Gustavo Morales Gaona,0,P2,Staging,Sprint 4,v1.3
+D0395,2025-10-11,Reservas,Bajo,Performance,Resuelto,Leonel Villagómez Sanches,0,P2,QA,Sprint 7,v1.8
+D0396,2025-09-23,Reportes,Alto,Funcional,Resuelto,Dr. Rosario Pantoja,0,P2,QA,Sprint 6,v1.3
+D0397,2025-10-18,Notificaciones,Medio,Performance,Resuelto,Luisa Sara Ruiz,0,P3,Produccion,Sprint 11,v3.2
+D0398,2025-09-28,Pagos,Medio,Funcional,En progreso,Alma María José Reynoso Villagómez,6,P3,QA,Sprint 6,v3.6
+D0399,2025-11-02,Autenticacion,Alto,Datos,Resuelto,Aldo Leonel Batista,0,P2,Staging,Sprint 9,v1.3
+D0400,2025-10-09,Autenticacion,Bajo,Performance,Abierto,Clemente Beltrán,6,P3,Produccion,Sprint 9,v1.2
+D0401,2025-09-27,Reservas,Bajo,UI,En progreso,Espartaco Uriel Ortiz Vigil,1,P1,Staging,Sprint 4,v3.5
+D0402,2025-10-11,Reportes,Critico,Seguridad,En progreso,Marco Antonio Irene Anguiano,4,P3,Produccion,Sprint 5,v2.3
+D0403,2025-09-19,Pagos,Bajo,Funcional,Resuelto,Dr. Catalina Feliciano,0,P3,Produccion,Sprint 7,v1.4
+D0404,2025-09-10,Busqueda,Alto,Funcional,Abierto,Olga Gustavo Montenegro Niño,8,P1,Staging,Sprint 4,v1.3
+D0405,2025-09-30,Autenticacion,Alto,Seguridad,En progreso,Rafaél Sofía Trujillo,6,P3,QA,Sprint 1,v1.9
+D0406,2025-09-07,Autenticacion,Medio,Funcional,Resuelto,Dr. Francisco Arroyo,0,P2,QA,Sprint 11,v3.0
+D0407,2025-09-17,Notificaciones,Alto,Seguridad,Resuelto,Mtro. Berta Laureano,0,P4,Produccion,Sprint 3,v1.2
+D0408,2025-09-17,Autenticacion,Medio,Funcional,Resuelto,Dr. Benito Anguiano,0,P2,Produccion,Sprint 1,v3.7
+D0409,2025-09-06,Reportes,Medio,Funcional,Resuelto,Javier Gastélum Chavarría,0,P1,Staging,Sprint 7,v2.4
+D0410,2025-10-11,Busqueda,Medio,Datos,Resuelto,Alberto Paredes Salas,0,P1,Produccion,Sprint 2,v2.0
+D0411,2025-11-04,Autenticacion,Critico,UI,En progreso,Uriel Jaime Correa Salcido,5,P3,Produccion,Sprint 12,v3.9
+D0412,2025-11-03,Reportes,Medio,Datos,En progreso,Marisol Fidel Montes,5,P3,Staging,Sprint 12,v1.4
+D0413,2025-09-20,Pagos,Bajo,UI,En progreso,Mtro. Miriam Leiva,8,P1,QA,Sprint 11,v1.0
+D0414,2025-10-12,Autenticacion,Medio,UI,En progreso,María Teresa Jáquez Alfaro,1,P3,Produccion,Sprint 5,v2.6
+D0415,2025-10-16,Notificaciones,Medio,Seguridad,Resuelto,Marisol Noelia Quiñónez,0,P3,Staging,Sprint 2,v3.5
+D0416,2025-10-11,Busqueda,Bajo,Datos,Resuelto,Anel Hilda Vaca Irizarry,0,P1,Produccion,Sprint 5,v3.7
+D0417,2025-10-25,Busqueda,Alto,Seguridad,Resuelto,Dr. Maximiliano Ocampo,0,P1,Staging,Sprint 6,v2.8
+D0418,2025-09-20,Pagos,Alto,Performance,Resuelto,Hugo Perla Sanches Arredondo,0,P1,Staging,Sprint 5,v2.1
+D0419,2025-10-25,Pagos,Alto,Datos,En progreso,Ing. Cristina Zayas,4,P2,QA,Sprint 3,v2.1
+D0420,2025-09-12,Notificaciones,Critico,Datos,Resuelto,Augusto Caraballo Mateo,0,P2,QA,Sprint 1,v3.8
+D0421,2025-09-23,Notificaciones,Critico,Funcional,Resuelto,Sr(a). Juana Villalobos,0,P4,Produccion,Sprint 12,v3.6
+D0422,2025-10-10,Reportes,Medio,UI,En progreso,Frida Modesto Hidalgo Flórez,3,P4,Staging,Sprint 3,v1.7
+D0423,2025-10-22,Busqueda,Critico,Datos,Resuelto,Ing. Julio Tirado,0,P3,Staging,Sprint 4,v3.6
+D0424,2025-10-24,Reservas,Bajo,Datos,En progreso,Modesto Murillo Toledo,2,P4,Produccion,Sprint 5,v3.5
+D0425,2025-09-25,Reservas,Bajo,UI,Resuelto,Ing. Carla Dávila,0,P2,Produccion,Sprint 8,v1.9
+D0426,2025-10-10,Autenticacion,Medio,UI,Resuelto,Isaac Chávez,0,P2,Staging,Sprint 11,v2.2
+D0427,2025-09-11,Reportes,Alto,UI,Abierto,Rafaél Batista Cabrera,3,P4,QA,Sprint 7,v1.1
+D0428,2025-10-06,Notificaciones,Medio,UI,En progreso,Ing. Rafaél Raya,8,P3,Produccion,Sprint 8,v3.4
+D0429,2025-10-10,Pagos,Alto,Funcional,Resuelto,Modesto Clara Tello Fierro,0,P2,QA,Sprint 5,v2.4
+D0430,2025-10-05,Reportes,Medio,Funcional,Resuelto,Graciela Holguín Godoy,0,P1,Produccion,Sprint 10,v3.0
+D0431,2025-10-05,Reportes,Medio,Funcional,Resuelto,Citlali Celia Sauceda,0,P2,Staging,Sprint 7,v2.1
+D0432,2025-09-09,Pagos,Bajo,UI,Resuelto,Pedro Alfaro Salgado,0,P1,Staging,Sprint 10,v2.1
+D0433,2025-10-05,Reservas,Medio,Funcional,Resuelto,Fernando Dávila,0,P3,Staging,Sprint 6,v1.3
+D0434,2025-11-02,Autenticacion,Alto,Datos,En progreso,Luisa Liliana Becerra Solano,9,P1,QA,Sprint 8,v1.4
+D0435,2025-09-07,Notificaciones,Alto,Seguridad,Abierto,Joaquín Zacarías Sauceda,5,P4,Produccion,Sprint 5,v2.6
+D0436,2025-10-03,Pagos,Bajo,Funcional,En progreso,Gabino Óscar Correa Muro,5,P4,QA,Sprint 5,v2.0
+D0437,2025-09-21,Reportes,Medio,Seguridad,Resuelto,Amador Loya,0,P1,Staging,Sprint 4,v2.2
+D0438,2025-10-25,Autenticacion,Critico,Funcional,En progreso,Ing. Aurora Solorzano,1,P4,Produccion,Sprint 2,v1.0
+D0439,2025-09-20,Reservas,Bajo,Datos,En progreso,Virginia Urías Contreras,10,P1,QA,Sprint 4,v2.2
+D0440,2025-09-16,Reservas,Critico,Performance,En progreso,Elvia Madera,8,P3,QA,Sprint 9,v1.9
+D0441,2025-10-16,Notificaciones,Medio,Performance,Abierto,Claudia Cardenas,2,P4,QA,Sprint 9,v3.9
+D0442,2025-10-02,Busqueda,Alto,Funcional,En progreso,Silvia Garrido,8,P4,Staging,Sprint 4,v2.6
+D0443,2025-10-02,Busqueda,Medio,Datos,En progreso,Carlos Peres,10,P2,QA,Sprint 12,v3.6
+D0444,2025-09-14,Reportes,Medio,Funcional,En progreso,Germán Vélez Chacón,9,P3,QA,Sprint 1,v3.9
+D0445,2025-10-23,Pagos,Medio,Seguridad,Resuelto,Zeferino Chávez Santacruz,0,P4,Produccion,Sprint 9,v1.8
+D0446,2025-09-15,Pagos,Medio,Datos,Resuelto,Mtro. Julio Meza,0,P2,Produccion,Sprint 2,v2.1
+D0447,2025-10-28,Busqueda,Bajo,Seguridad,Resuelto,Dr. Juana Aragón,0,P4,Produccion,Sprint 10,v2.4
+D0448,2025-10-28,Reservas,Alto,UI,Resuelto,Alfredo Cabán Rivera,0,P2,Staging,Sprint 2,v2.1
+D0449,2025-10-04,Pagos,Medio,Funcional,Resuelto,Marco Antonio Lebrón,0,P1,Produccion,Sprint 2,v3.3
+D0450,2025-09-11,Reservas,Medio,Datos,Resuelto,Gabriela Venegas,0,P3,Produccion,Sprint 9,v2.0
+D0451,2025-10-24,Reservas,Critico,Seguridad,En progreso,Diego Cynthia López Márquez,9,P4,Produccion,Sprint 10,v2.3
+D0452,2025-10-26,Notificaciones,Critico,UI,Resuelto,Olivia Nelly Guzmán,0,P2,QA,Sprint 7,v2.8
+D0453,2025-10-11,Pagos,Medio,Seguridad,Resuelto,Mtro. Benjamín Carreón,0,P3,Staging,Sprint 4,v2.2
+D0454,2025-11-04,Busqueda,Bajo,Seguridad,Resuelto,Mtro. María Teresa Melgar,0,P4,QA,Sprint 10,v1.2
+D0455,2025-10-06,Reportes,Alto,Funcional,Resuelto,Hilda Pizarro,0,P4,QA,Sprint 12,v2.6
+D0456,2025-09-13,Reservas,Medio,UI,Resuelto,Ivonne Loya Irizarry,0,P2,Staging,Sprint 12,v2.3
+D0457,2025-11-02,Reportes,Alto,Datos,Resuelto,Verónica Dolores Arenas,0,P3,QA,Sprint 3,v2.7
+D0458,2025-10-10,Reportes,Alto,Performance,Resuelto,Rolando Aranda Almaraz,0,P4,Produccion,Sprint 2,v2.4
+D0459,2025-10-23,Pagos,Medio,UI,Resuelto,Jaime Micaela Escamilla Hinojosa,0,P4,Staging,Sprint 10,v1.1
+D0460,2025-09-30,Reportes,Medio,Funcional,En progreso,José Eduardo Benito Carbajal Aponte,2,P4,QA,Sprint 11,v1.5
+D0461,2025-09-10,Pagos,Alto,Funcional,Abierto,Lic. Inés Lucio,1,P2,Staging,Sprint 6,v1.6
+D0462,2025-09-06,Notificaciones,Alto,Seguridad,Resuelto,Ricardo Zelaya,0,P4,Staging,Sprint 10,v3.3
+D0463,2025-09-22,Notificaciones,Medio,Funcional,Resuelto,Dr. Santiago Alemán,0,P2,Staging,Sprint 12,v2.4
+D0464,2025-11-04,Autenticacion,Bajo,Funcional,Resuelto,Citlali Mónica Prieto,0,P4,QA,Sprint 1,v1.4
+D0465,2025-10-27,Notificaciones,Medio,Datos,En progreso,Abel Natalia Villaseñor Saucedo,6,P1,Produccion,Sprint 9,v3.1
+D0466,2025-10-13,Reportes,Medio,Datos,Resuelto,Bianca Úrsula Mesa,0,P4,Staging,Sprint 3,v3.7
+D0467,2025-09-27,Reportes,Medio,Datos,En progreso,Tomás Guerra,8,P2,QA,Sprint 4,v3.9
+D0468,2025-10-15,Busqueda,Medio,Funcional,Resuelto,Lic. María Luisa Rodrígez,0,P4,QA,Sprint 6,v2.6
+D0469,2025-10-09,Autenticacion,Alto,Performance,En progreso,Andrea Cardenas Carreón,4,P3,Staging,Sprint 8,v3.7
+D0470,2025-09-29,Busqueda,Medio,Seguridad,Resuelto,Rafaél Frida Lara Rincón,0,P2,QA,Sprint 10,v1.3
+D0471,2025-10-13,Pagos,Medio,UI,Resuelto,Omar Macías Barrera,0,P4,Produccion,Sprint 7,v1.4
+D0472,2025-10-30,Autenticacion,Medio,Datos,Resuelto,Conchita Jonás Sandoval Alvarez,0,P1,Produccion,Sprint 3,v3.6
+D0473,2025-10-04,Notificaciones,Bajo,Datos,Abierto,Andrés Alvaro Almonte Rivas,3,P3,Produccion,Sprint 8,v1.6
+D0474,2025-11-01,Pagos,Medio,UI,Resuelto,Ing. Hermelinda Alcala,0,P1,Produccion,Sprint 2,v3.0
+D0475,2025-10-25,Autenticacion,Alto,Performance,Resuelto,Carlota Ruiz Nieto,0,P2,QA,Sprint 3,v1.2
+D0476,2025-10-11,Pagos,Alto,Funcional,En progreso,Dulce María Humberto Córdova,3,P2,Staging,Sprint 11,v1.0
+D0477,2025-10-29,Reportes,Bajo,Seguridad,Abierto,Ana María Rosado Cabrera,7,P4,QA,Sprint 6,v2.5
+D0478,2025-09-28,Reportes,Alto,Seguridad,Resuelto,Dr. Carlota Ledesma,0,P3,Staging,Sprint 10,v3.2
+D0479,2025-10-19,Autenticacion,Medio,Funcional,Resuelto,Darío Gloria Almanza Almaraz,0,P2,QA,Sprint 12,v3.6
+D0480,2025-10-27,Autenticacion,Bajo,Datos,Resuelto,Angélica Cazares,0,P1,Staging,Sprint 8,v1.4
+D0481,2025-09-30,Pagos,Bajo,UI,Resuelto,Angélica Micaela Alvarado,0,P4,Produccion,Sprint 1,v1.5
+D0482,2025-10-26,Reservas,Alto,Datos,Resuelto,Vanesa Rivas,0,P3,QA,Sprint 4,v3.5
+D0483,2025-10-19,Busqueda,Medio,Performance,Resuelto,Isabela Fernández,0,P1,Produccion,Sprint 1,v1.1
+D0484,2025-09-26,Notificaciones,Bajo,Performance,Resuelto,Dr. Elsa Mena,0,P1,Staging,Sprint 3,v3.1
+D0485,2025-10-29,Notificaciones,Medio,Seguridad,En progreso,Sr(a). Cornelio Madera,8,P1,Produccion,Sprint 6,v2.3
+D0486,2025-10-30,Busqueda,Alto,Performance,Resuelto,Mario Lorena Solorzano Luna,0,P4,QA,Sprint 3,v3.6
+D0487,2025-09-25,Notificaciones,Medio,UI,Resuelto,Leonel Arcelia Coronado Luevano,0,P1,Staging,Sprint 11,v3.0
+D0488,2025-10-05,Pagos,Medio,Funcional,En progreso,Ing. Gloria Verdugo,10,P3,Produccion,Sprint 5,v1.0
+D0489,2025-09-20,Pagos,Bajo,UI,Resuelto,Elias Guzmán,0,P1,QA,Sprint 1,v1.1
+D0490,2025-09-07,Autenticacion,Medio,UI,Abierto,Rodolfo Galarza,9,P3,QA,Sprint 5,v1.8
+D0491,2025-09-26,Reservas,Alto,Funcional,En progreso,Olivia Jacinto Nevárez Granados,5,P4,Staging,Sprint 3,v1.6
+D0492,2025-09-15,Pagos,Medio,UI,Resuelto,Iván Gerardo Estrada,0,P3,Produccion,Sprint 1,v1.5
+D0493,2025-09-14,Busqueda,Medio,Seguridad,En progreso,Dr. Gloria Vázquez,5,P2,Staging,Sprint 12,v2.9
+D0494,2025-10-01,Reportes,Alto,Performance,En progreso,Serafín Vásquez Salas,10,P1,Staging,Sprint 9,v2.5
+D0495,2025-10-13,Reportes,Critico,Seguridad,Resuelto,Antonia Gutiérrez Porras,0,P4,QA,Sprint 7,v2.8
+D0496,2025-10-26,Pagos,Medio,Seguridad,Abierto,Sandra Matías Montero,7,P3,Produccion,Sprint 1,v1.7
+D0497,2025-10-03,Busqueda,Medio,Funcional,Abierto,Lucía Oswaldo Velásquez,3,P2,Staging,Sprint 9,v2.1
+D0498,2025-10-10,Pagos,Alto,Performance,Resuelto,Zacarías Loya Briones,0,P4,Staging,Sprint 1,v3.5
+D0499,2025-10-15,Reservas,Bajo,Funcional,Resuelto,Ana Cornelio Vázquez Márquez,0,P1,Produccion,Sprint 10,v3.1
+D0500,2025-09-12,Pagos,Medio,Performance,Resuelto,Carmen Esmeralda Gurule Nieves,0,P2,Produccion,Sprint 6,v2.0
